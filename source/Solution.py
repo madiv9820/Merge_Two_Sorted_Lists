@@ -107,3 +107,4 @@ class Solution:
         # because TCIM modifies the original linked-list structure
         # in place.
         return approach3.merge()
+    
